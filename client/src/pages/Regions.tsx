@@ -16,7 +16,7 @@ export default function Regions() {
             </Button>
           </Link>
           <h1 className="text-4xl font-bold text-slate-900 mb-2">Global Regional Support</h1>
-          <p className="text-lg text-slate-600">Tailored guidance for your team across 8 regions</p>
+          <p className="text-lg text-slate-600">Tailored guidance for your team across 8 regions — by Rupinder Pal Singh</p>
         </div>
       </div>
 
@@ -25,7 +25,7 @@ export default function Regions() {
         <Card className="p-8 bg-gradient-to-r from-blue-50 to-indigo-50 border-2 border-blue-200 mb-12">
           <h2 className="text-2xl font-bold text-slate-900 mb-4">Global Applicability of Frameworks</h2>
           <p className="text-slate-600 mb-6">
-            Nice's GRC team operates across diverse regions including the UK, EU, AU, PH, India, US, Canada, and South America. This global footprint necessitates a plan that is adaptable and accounts for regional nuances while maintaining a unified approach to AI GRC.
+            Your GRC team operates across diverse regions including the UK, EU, AU, PH, India, US, Canada, and South America. This global footprint necessitates a plan that is adaptable and accounts for regional nuances while maintaining a unified approach to AI GRC.
           </p>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="flex items-start gap-3">

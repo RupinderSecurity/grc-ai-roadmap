@@ -16,7 +16,7 @@ export default function Training() {
             </Button>
           </Link>
           <h1 className="text-4xl font-bold text-slate-900 mb-2">Training Modules & Resources</h1>
-          <p className="text-lg text-slate-600">Continuous learning paths to support your team's development</p>
+          <p className="text-lg text-slate-600">Continuous learning paths to support your team's development — by Rupinder Pal Singh</p>
         </div>
       </div>
 

@@ -16,7 +16,7 @@ export default function Frameworks() {
             </Button>
           </Link>
           <h1 className="text-4xl font-bold text-slate-900 mb-2">Core AI GRC Frameworks</h1>
-          <p className="text-lg text-slate-600">Three globally recognized frameworks your team must master</p>
+          <p className="text-lg text-slate-600">Three globally recognized frameworks your team must master — by Rupinder Pal Singh</p>
         </div>
       </div>
 
@@ -75,7 +75,7 @@ export default function Frameworks() {
               </div>
 
               <div className="text-sm text-slate-600">
-                <p className="mb-2"><strong>Applicability:</strong> Directly applicable to EU team members and any operations impacting the EU. Understanding this act is critical for all global team members, as its influence extends beyond EU borders.</p>
+                <p className="mb-2"><strong>Applicability:</strong> Directly applicable to EU team members and any operations impacting the EU. Understanding this act is critical for all global GRC teams, as its influence extends beyond EU borders.</p>
               </div>
             </Card>
           </div>
@@ -278,7 +278,7 @@ export default function Frameworks() {
         <Card className="p-8 bg-gradient-to-r from-slate-50 to-blue-50 border-2 border-slate-200">
           <h2 className="text-2xl font-bold text-slate-900 mb-4">Common Principles</h2>
           <p className="text-slate-600 mb-6">
-            While distinct in their approach, all three frameworks share common principles:
+            While distinct in their approach, all three frameworks share common principles. This comprehensive analysis is part of the strategic plan by Rupinder Pal Singh:
           </p>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="flex items-start gap-3">
@@ -318,7 +318,7 @@ export default function Frameworks() {
         <div className="container">
           <h2 className="text-2xl font-bold text-slate-900 mb-6">Next Steps</h2>
           <p className="text-slate-600 mb-8">
-            A holistic understanding of all three frameworks will enable the Nice GRC team to address AI compliance and risk management comprehensively across different jurisdictions and operational contexts.
+            A holistic understanding of all three frameworks will enable your GRC team to address AI compliance and risk management comprehensively across different jurisdictions and operational contexts.
           </p>
           <Link href="/roadmap">
             <Button size="lg">View Implementation Roadmap</Button>

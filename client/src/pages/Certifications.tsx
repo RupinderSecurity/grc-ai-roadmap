@@ -16,7 +16,7 @@ export default function Certifications() {
             </Button>
           </Link>
           <h1 className="text-4xl font-bold text-slate-900 mb-2">Certification Pathways</h1>
-          <p className="text-lg text-slate-600">Tiered certifications aligned with team experience and career goals</p>
+          <p className="text-lg text-slate-600">Tiered certifications aligned with team experience and career goals — by Rupinder Pal Singh</p>
         </div>
       </div>
 

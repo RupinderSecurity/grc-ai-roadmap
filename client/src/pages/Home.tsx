@@ -13,7 +13,7 @@ export default function Home() {
             <div className="w-8 h-8 bg-gradient-to-br from-blue-600 to-blue-700 rounded-lg flex items-center justify-center">
               <span className="text-white font-bold text-sm">GRC</span>
             </div>
-            <span className="font-semibold text-slate-900">Nice AI Roadmap</span>
+            <span className="font-semibold text-slate-900">GRC + AI Roadmap</span>
           </div>
           <div className="hidden md:flex items-center gap-8">
             <a href="#trends" className="text-sm text-slate-600 hover:text-slate-900 transition">Trends</a>
@@ -35,7 +35,7 @@ export default function Home() {
             Transform Your GRC Team for the AI Era
           </h1>
           <p className="text-xl text-slate-600 mb-8 leading-relaxed">
-            A comprehensive roadmap to equip your global team with AI governance expertise, certifications, and frameworks needed to audit, manage, and ensure compliance with AI systems across all jurisdictions.
+            A comprehensive one-year strategic plan authored by <strong>Rupinder Pal Singh</strong> to equip your global GRC team with AI governance expertise, certifications, and frameworks needed to audit, manage, and ensure compliance with AI systems across all jurisdictions.
           </p>
           <div className="flex flex-col sm:flex-row gap-4">
             <Link href="/roadmap">
@@ -314,10 +314,10 @@ export default function Home() {
           <div className="grid grid-cols-1 md:grid-cols-4 gap-8 mb-8">
             <div>
               <div className="flex items-center gap-2 mb-4">
-                <div className="w-6 h-6 bg-blue-600 rounded-lg flex items-center justify-center">
-                  <span className="text-white font-bold text-xs">GRC</span>
-                </div>
-                <span className="font-semibold text-white">Nice AI Roadmap</span>
+              <div className="w-6 h-6 bg-blue-600 rounded-lg flex items-center justify-center">
+                <span className="text-white font-bold text-xs">GRC</span>
+              </div>
+              <span className="font-semibold text-white">GRC + AI Roadmap</span>
               </div>
               <p className="text-sm">Transforming GRC teams for the AI era</p>
             </div>
@@ -339,11 +339,11 @@ export default function Home() {
             </div>
             <div>
               <h4 className="font-semibold text-white mb-4">About</h4>
-              <p className="text-sm">A comprehensive one-year plan for Nice's global GRC team to master AI governance, compliance, and auditing.</p>
+              <p className="text-sm">A comprehensive one-year strategic plan by Rupinder Pal Singh for global GRC teams to master AI governance, compliance, and auditing.</p>
             </div>
           </div>
           <div className="border-t border-slate-800 pt-8">
-            <p className="text-sm text-center">© 2026 Nice GRC + AI Readiness Plan. All rights reserved.</p>
+            <p className="text-sm text-center">© 2026 GRC + AI Readiness Plan by Rupinder Pal Singh. All rights reserved.</p>
           </div>
         </div>
       </footer>

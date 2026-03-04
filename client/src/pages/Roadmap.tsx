@@ -16,7 +16,7 @@ export default function Roadmap() {
             </Button>
           </Link>
           <h1 className="text-4xl font-bold text-slate-900 mb-2">12-Month Roadmap</h1>
-          <p className="text-lg text-slate-600">A structured quarterly approach to building AI GRC expertise</p>
+          <p className="text-lg text-slate-600">A structured quarterly approach to building AI GRC expertise — by Rupinder Pal Singh</p>
         </div>
       </div>
 
