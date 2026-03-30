@@ -1,11 +1,4 @@
 {
-  "buildCommand": "pnpm install && pnpm run build",
-  "outputDirectory": "dist/public",
-  "framework": "vite",
-  "env": {
-    "NODE_ENV": "production"
-  }
-  {
   "buildCommand": "npm install && npm run build",
   "outputDirectory": "dist/public",
   "framework": "vite",
@@ -13,4 +6,4 @@
     "NODE_ENV": "production"
   }
 }
-}
+
