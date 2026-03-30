@@ -5,4 +5,12 @@
   "env": {
     "NODE_ENV": "production"
   }
+  {
+  "buildCommand": "npm install && npm run build",
+  "outputDirectory": "dist/public",
+  "framework": "vite",
+  "env": {
+    "NODE_ENV": "production"
+  }
+}
 }
