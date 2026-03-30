@@ -3,7 +3,11 @@
   "version": "1.0.0",
   "description": "A roadmap for GRC AI projects.",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "build": "vite build",
+    "dev": "vite",
+    "preview": "vite preview"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/RupinderSecurity/grc-ai-roadmap.git"
